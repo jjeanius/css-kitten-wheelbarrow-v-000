@@ -1,5 +1,5 @@
 /* Select the image with a class of kitty-1 */
-.Kitty 1 {
+."Kitty 1" {
   position: absolute;
   z-index: 1;
   top: 276px;
@@ -8,7 +8,7 @@
 
 /* Select the image with id of kitty-2 */
 
-#Kitty 2 {
+#"Kitty 2" {
   position: absolute;
   z-index: 2;
   top: 212px;
